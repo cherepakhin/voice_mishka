@@ -3,6 +3,10 @@
 ````shell
 docker run -d -p 2700:2700 alphacep/kaldi-ru:latest
 ````
+Файл wav должен быть с параметрами Mono, 16kHz, 32 bit floatю 
+
+![audiosity_setting.png](doc/audiosity_setting.png)
+
 Распознавание:
 
 ````shell
