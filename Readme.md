@@ -15,3 +15,7 @@ python3 ./test.py mishka.wav > miska_out.txt
 
 Результат смотреть в конце файла miska_out.txt.
 Это JSON. Результат по JSON PATH ./text .
+
+````text
+"text" : "дайте мне конфет мишка на севере триста грамм"
+````
